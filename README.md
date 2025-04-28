@@ -15,3 +15,5 @@ These are educational screenshots from a lab environment (TryHackMe) and do not 
 
 
 https://github.com/mdridoy01/Burp-suite-intercept-practice/blob/main/Screenshot_2025-02-10_08-53-03.png
+
+https://github.com/mdridoy01/Burp-suite-intercept-practice/blob/main/Screenshot_2025-02-10_08-55-05.png
