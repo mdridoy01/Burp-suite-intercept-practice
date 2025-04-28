@@ -12,3 +12,6 @@ These screenshots demonstrate basic usage of Burp Suite's Proxy feature during w
 
 ## Note
 These are educational screenshots from a lab environment (TryHackMe) and do not involve any real-world targets.
+
+
+https://github.com/mdridoy01/Burp-suite-intercept-practice/blob/main/Screenshot_2025-02-10_08-53-03.png
